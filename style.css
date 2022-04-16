@@ -281,7 +281,7 @@ ul ol { margin-top: 0px; }
 
 /* make the target distinct; helps when we're navigating to a function */
 a:target + * {
-  background-color: #FF9;
+    background-color: #FF9;
 }
 
 
